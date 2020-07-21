@@ -1,5 +1,14 @@
-### Hi there 👋
+## Marcson Azevedo
 
+#### Graduando em Estatística - UFF
+#### XP: Estágio IBGE, Projeto DataUFF
+###### Voluntário Congresso Internacional de Matemática 2018
+#### Aprendizado no uso de dados: 
+##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
+##### Python: Vizualização de dados, Web (DJANGO), Sistemas embarcados
+#### Estudos:
+##### Desenvolvimento Web: Backend (API's REST)
+##### Desenvolvimento Web: Frontend (HTML,CSS,JS (vanilla))
 <!--
 **MarcsonAz/MarcsonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
