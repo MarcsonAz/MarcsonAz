@@ -1,14 +1,15 @@
-## Marcson Azevedo
+## Marcson Azevedo :v: at :house:
 
-#### Graduando em Estatística - UFF
-#### XP: Estágio IBGE, Projeto DataUFF
+#### Graduando em Estatística - UFF  :bar_chart:
+#### XP: Estágio IBGE, Projeto DataUFF 
 ###### Voluntário Congresso Internacional de Matemática 2018
 #### Aprendizado no uso de dados: 
 ##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
 ##### Python: Vizualização de dados, Web (DJANGO), Sistemas embarcados
-#### Estudos:
+#### Estudos: :books:
 ##### Desenvolvimento Web: Backend (API's REST)
-##### Desenvolvimento Web: Frontend (HTML,CSS,JS (vanilla))
+##### Desenvolvimento Web: Frontend (HTML,CSS,JS)
+:arrow_forward:  VISIT: [Top COVID-19 Cases Countries](https://marcsonaz.github.io/) :arrow_backward:
 <!--
 **MarcsonAz/MarcsonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
