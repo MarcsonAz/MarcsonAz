@@ -1,7 +1,7 @@
 ## Marcson Azevedo :v: at :house:
 
 #### Graduando em Estatística - UFF  :bar_chart:
-#### XP: Estágio IBGE, Projeto DataUFF, ATUAL: Estágio IMDS
+#### XP: Estágio IBGE, Projeto DataUFF, ATUAL: Estágio Imds
 ###### Voluntário Congresso Internacional de Matemática 2018
 #### Aprendizado no uso de dados: 
 ##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
