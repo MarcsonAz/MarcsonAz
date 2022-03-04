@@ -1,8 +1,8 @@
 ## Marcson Azevedo :computer: at :office:
 
 #### Bacharel em Estatística - UFF  📈:
-#### XP: Estágio IBGE, Projeto DataUFF, ATUAL: Pesquisador @ [IMDS](https://imdsbrasil.org)
-###### Voluntário Congresso Internacional de Matemática 2018
+#### XP: Pesquisador @ [IMDS](https://imdsbrasil.org)
+###### Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018 
 #### Aprendizado no uso de dados: 
 ##### R: mineração, tratamento, construção de indicadores
 ##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
