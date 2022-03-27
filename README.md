@@ -6,8 +6,10 @@
 #### Aprendizado no uso de dados: 
 ##### R: mineração, tratamento, construção de indicadores
 ##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
-##### Python: Vizualização de dados, Web (DJANGO), Sistemas embarcados
+##### Python: Vizualização de dados, Web (DJANGO), scrape, Sistemas embarcados
 #### Estudos: :books:
+##### Desenvolvimento web: js e nodejs para scrape
+
 ##### Pesquisas de Indicadores Sociais
 :arrow_forward:  VISIT: [Top COVID-19 Cases Countries](https://marcsonaz.github.io/) :arrow_backward:
 <!--
