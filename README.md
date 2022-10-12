@@ -1,14 +1,14 @@
-## Marcson Azevedo :computer: at :office:
+## Marcson Azevedo at :office:
 
 #### Bacharel em Estatística - UFF  📈:
 #### XP: Pesquisador @ [IMDS](https://imdsbrasil.org)
 ###### Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
 
 #### Projetos: 
-##### PBF/RAIS - análise de microdados das primeiras gerações do Bolsa com detalhes de saída do Cadastro e aquisição de emprego formal
-##### Abandono e Evasão escolar - análise da evolução de indicadores educacionais do Censo escolar e da PNADC
-##### Pobreza Infantil - análise de microdados da PNADC sobre a pobreza no Brasil: magnitude, desenvolvimento de habilidades e caracterização da renda
-
+##### [PBF/RAIS](https://imdsbrasil.org/bolsa-familia/saida-e-permanencia-no-cadunico) - análise de microdados das primeiras gerações do Bolsa com detalhes de saída do Cadastro e aquisição de emprego formal
+##### [Abandono e Evasão escolar](https://imdsbrasil.org/abandono-e-evasao) - análise da evolução de indicadores educacionais do Censo escolar e da PNADC
+##### [Pobreza Infantil](https://imdsbrasil.org/criancas-e-adolecentes/magnitude-da-pobreza-e-extrema-pobreza-monetaria-no-brasil) - análise de microdados da PNADC sobre a pobreza no Brasil: magnitude, desenvolvimento de habilidades e caracterização da renda
+##### [PNAD COVID-19](https://imdsbrasil.org/apresentacao-detalhe) - Análise de dados de educação da pesquisa experimental em painel realizada pelo IBGE no ínicia da pandemia de COVID-19 em 2020.
 
 #### Aprendizado no uso de dados: 
 ##### Dados: PNADC/CENSO/RAIS/Censo Escolar/SAEB/Boletim de finanças/DATASUS/PeNSE/Censo SUAS/PNS/POF
