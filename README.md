@@ -2,16 +2,27 @@
 
 #### Bacharel em Estatística - UFF  📈:
 #### XP: Pesquisador @ [IMDS](https://imdsbrasil.org)
-###### Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018 
+###### Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
+
+#### Projetos: 
+##### PBF/RAIS - análise de microdados das primeiras gerações do Bolsa com detalhes de saída do Cadastro e aquisição de emprego formal
+##### Abandono e Evasão escolar - análise da evolução de indicadores educacionais do Censo escolar e da PNADC
+##### Pobreza Infantil - análise de microdados da PNADC sobre a pobreza no Brasil: magnitude, desenvolvimento de habilidades e caracterização da renda
+
+
 #### Aprendizado no uso de dados: 
+##### Dados: PNADC/CENSO/RAIS/Censo Escolar/SAEB/Boletim de finanças/DATASUS/PeNSE/Censo SUAS/PNS/POF
 ##### R: mineração, tratamento, construção de indicadores
 ##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
 ##### Python: Vizualização de dados, Web (DJANGO), scrape, Sistemas embarcados
 #### Estudos: :books:
+##### SQL
+##### Construção de modelos DEA
+##### Tableau dashboards
 ##### Desenvolvimento web: js e nodejs para scrape
 
 ##### Pesquisas de Indicadores Sociais
-:arrow_forward:  VISIT: [Top COVID-19 Cases Countries](https://marcsonaz.github.io/) :arrow_backward:
+:arrow_forward:  VISIT: [página pessoal](https://marcsonaz.github.io/) :arrow_backward:
 <!--
 **MarcsonAz/MarcsonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
