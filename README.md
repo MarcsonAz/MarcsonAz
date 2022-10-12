@@ -16,10 +16,7 @@
 ##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
 ##### Python: Vizualização de dados, Web (DJANGO), scrape, Sistemas embarcados
 #### Estudos: :books:
-##### SQL
-##### Construção de modelos DEA
-##### Tableau dashboards
-##### Desenvolvimento web: js e nodejs para scrape
+##### SQL  --  Construção de modelos DEA  --  Tableau dashboards  --  Desenvolvimento web: js e nodejs para scrape
 
 ##### Pesquisas de Indicadores Sociais
 :arrow_forward:  VISIT: [página pessoal](https://marcsonaz.github.io/) :arrow_backward:
