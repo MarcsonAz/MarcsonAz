@@ -1,8 +1,10 @@
 ## Marcson Azevedo at :office:
-
 #### Bacharel em Estatística - UFF  📈:
 #### XP: Pesquisador @ [IMDS](https://imdsbrasil.org)
 ###### Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
+
+:arrow_forward:  VISIT: [Página pessoal](https://marcsonaz.github.io/) :arrow_backward:
+:arrow_forward:  VISIT: [Publicações Tableau](https://public.tableau.com/app/profile/marcson/) :arrow_backward:
 
 #### Projetos: 
 ##### [PBF/RAIS](https://imdsbrasil.org/bolsa-familia/saida-e-permanencia-no-cadunico) - análise de microdados das primeiras gerações do Bolsa com detalhes de saída do Cadastro e aquisição de emprego formal
@@ -18,8 +20,6 @@
 #### Estudos: :books:
 ##### SQL  --  Construção de modelos DEA  --  Tableau dashboards  --  Desenvolvimento web: js e nodejs para scrape
 
-##### Pesquisas de Indicadores Sociais
-:arrow_forward:  VISIT: [página pessoal](https://marcsonaz.github.io/) :arrow_backward:
 <!--
 **MarcsonAz/MarcsonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
