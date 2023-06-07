@@ -1,12 +1,15 @@
 ## Marcson Azevedo at :office:
+#### Mestrando em Estatísticas Públicas - ENCE/IBGE
 #### Bacharel em Estatística - UFF  📈:
-#### XP: Pesquisador @ [IMDS](https://imdsbrasil.org)
-###### Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
+
+#### XP: Pesquisador Bolsista @[IPEA](https://www.ipea.gov.br/portal/)
+###### Pesquisador IMDS, Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
 
 :arrow_forward:  VISIT: [Página pessoal](https://marcsonaz.github.io/) :arrow_backward:
 :arrow_forward:  VISIT: [Publicações Tableau](https://public.tableau.com/app/profile/marcson/) :arrow_backward:
 
 #### Projetos: 
+##### [ATLAS DO ESTADO BRASILEIRO](https://www.ipea.gov.br/atlasestado/) - análise de microdados da RAIS, empregos formais, empregos públicos no BRASIL
 ##### [PBF/RAIS](https://imdsbrasil.org/bolsa-familia/saida-e-permanencia-no-cadunico) - análise de microdados das primeiras gerações do Bolsa com detalhes de saída do Cadastro e aquisição de emprego formal
 ##### [Abandono e Evasão escolar](https://imdsbrasil.org/abandono-e-evasao) - análise da evolução de indicadores educacionais do Censo escolar e da PNADC
 ##### [Pobreza Infantil](https://imdsbrasil.org/criancas-e-adolecentes/magnitude-da-pobreza-e-extrema-pobreza-monetaria-no-brasil) - análise de microdados da PNADC sobre a pobreza no Brasil: magnitude, desenvolvimento de habilidades e caracterização da renda
@@ -15,10 +18,12 @@
 #### Aprendizado no uso de dados: 
 ##### Dados: PNADC/CENSO/RAIS/Censo Escolar/SAEB/Boletim de finanças/DATASUS/PeNSE/Censo SUAS/PNS/POF
 ##### R: mineração, tratamento, construção de indicadores
-##### R: ShinyApps, Vizualização de dados, Aprendizado de Máquina
+##### R: Plotly, ShinyApps, Vizualização de dados, Aprendizado de Máquina
 ##### Python: Vizualização de dados, Web (DJANGO), scrape, Sistemas embarcados
 #### Estudos: :books:
-##### SQL  --  Construção de modelos DEA  --  Tableau dashboards  --  Desenvolvimento web: js e nodejs para scrape
+##### Modelos generalizados para compreensão de fenômenos sociais complexos
+##### Mercado de Trabalho, previdência, barreiras ao desenvolvimento social
+##### DATAVIZ -- R, Python, SQL -- Construção de modelos DEA -- Quarto Pub -- Tableau dashboards -- Desenvolvimento web: js e nodejs para scrape
 
 <!--
 **MarcsonAz/MarcsonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
