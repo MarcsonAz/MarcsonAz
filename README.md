@@ -2,11 +2,15 @@
 #### Mestrando em Estatísticas Públicas - ENCE/IBGE
 #### Bacharel em Estatística - UFF  📈:
 
-#### XP: Pesquisador Bolsista @[IPEA](https://www.ipea.gov.br/portal/)
+#### Experiências
+#### Pesquisador Bolsista @[IPEA](https://www.ipea.gov.br/portal/)
 ###### Pesquisador IMDS, Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
 
-:arrow_forward:  VISIT: [Página pessoal](https://marcsonaz.github.io/) :arrow_backward:
+#### Páginas
+:arrow_forward:  VISIT: [Página pessoal](https://www.datascienceportfol.io/marcsonaz) :arrow_backward: em construção
+:arrow_forward:  VISIT: [Linkedin](https://www.linkedin.com/in/marcsonazevedo/) :arrow_backward:
 :arrow_forward:  VISIT: [Publicações Tableau](https://public.tableau.com/app/profile/marcson/) :arrow_backward:
+:arrow_forward:  VISIT: [Página pessoal](https://marcsonaz.github.io/) :arrow_backward: git pages, em mudanças!!!
 
 #### Projetos: 
 ##### [ATLAS DO ESTADO BRASILEIRO](https://www.ipea.gov.br/atlasestado/) - análise de microdados da RAIS, empregos formais, empregos públicos no BRASIL
@@ -24,6 +28,7 @@
 ##### Modelos generalizados para compreensão de fenômenos sociais complexos
 ##### Mercado de Trabalho, previdência, barreiras ao desenvolvimento social
 ##### DATAVIZ -- R, Python, SQL -- Construção de modelos DEA -- Quarto Pub -- Tableau dashboards -- Desenvolvimento web: js e nodejs para scrape
+
 
 <!--
 **MarcsonAz/MarcsonAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
