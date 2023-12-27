@@ -2,9 +2,8 @@
 #### Mestrando em Estatísticas Públicas - ENCE/IBGE
 #### Bacharel em Estatística - UFF  📈:
 
-#### Experiências
-#### Pesquisador Bolsista @[IPEA](https://www.ipea.gov.br/portal/)
-###### Pesquisador IMDS, Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
+#### Atividade principal: Pesquisador Bolsista @[IPEA](https://www.ipea.gov.br/portal/)
+###### Outras experiências: Pesquisador IMDS, Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
 
 #### Páginas
 :arrow_forward:  VISIT: [Página pessoal](https://www.datascienceportfol.io/marcsonaz) :arrow_backward: em construção
