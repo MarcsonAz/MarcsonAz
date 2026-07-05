@@ -6,7 +6,7 @@
 ###### Outras experiências: Pesquisador IMDS, Estágio IBGE, Projeto DataUFF, Voluntário Congresso Internacional de Matemática 2018
 
 #### Páginas
-:arrow_forward:  VISIT: [Página pessoal](https://www.datascienceportfol.io/marcsonaz) :arrow_backward: em construção
+:arrow_forward:  VISIT: [Página pessoal](https://marcson.com.br) :arrow_backward: em construção
 :arrow_forward:  VISIT: [Linkedin](https://www.linkedin.com/in/marcsonazevedo/) :arrow_backward:
 :arrow_forward:  VISIT: [Publicações Tableau](https://public.tableau.com/app/profile/marcson/) :arrow_backward:
 :arrow_forward:  VISIT: [Página pessoal](https://marcsonaz.github.io/) :arrow_backward: git pages, em mudanças!!!
