@@ -1,5 +1,5 @@
 ## Marcson Azevedo at :office:
-#### Mestrando em População, Território e Estatísticas Públicas - ENCE/IBGE
+#### Mestre em População, Território e Estatísticas Públicas - ENCE/IBGE
 #### Bacharel em Estatística - UFF  📈:
 
 #### Atividade principal: Pesquisador Bolsista @[IPEA](https://www.ipea.gov.br/portal/)
